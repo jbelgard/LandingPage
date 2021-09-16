@@ -1,0 +1,15 @@
+body {
+    background-image: url('pexels-skyler-ewing-5748867.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    font-family: 'Merienda', cursive;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+}
